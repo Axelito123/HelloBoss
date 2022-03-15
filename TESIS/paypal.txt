@@ -1,0 +1,21 @@
+PAYPAL:
+cuenta de correo:pepitopizeria@gmail.com	
+contraseña:2346184000Axel
+
+	Sandbox account
+sb-1dru58448154@business.example.com
+
+	Client ID
+AcIgsjpEnVqUkWnvQ9XT7MuXny_MEm92Wa17Pj-aQgeYGZcGZ-v6DzpJJzcrIsPHcBsUMBHjIJJiBsLu
+
+	SECRET:
+ECyZAM8ZMZXaX2Qjita835ZwohGPhJ0EiMjwq-r7v6DN9QwZZ1zUEOGB79W0z7ly5Xo9YQ9zecOJ4OFK
+
+
+
+
+Cuenta para comprar:
+sb-puips8448153@personal.example.com
+
+Password para comprar:
+Tn+JgMM1
